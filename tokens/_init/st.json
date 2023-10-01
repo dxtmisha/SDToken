@@ -1,0 +1,146 @@
+{
+  "st": {
+    "selectable": {
+      "border": {
+        "radius": {
+          "none": {
+            "value": "{ot.dimension.0}",
+            "type": "borderRadius"
+          },
+          "xs": {
+            "value": "{ot.border.radius.12}",
+            "type": "borderRadius"
+          },
+          "sm": {
+            "value": "{ot.border.radius.25}",
+            "type": "borderRadius"
+          },
+          "md": {
+            "value": "{ot.border.radius.37}",
+            "type": "borderRadius"
+          },
+          "lg": {
+            "value": "{ot.border.radius.50}",
+            "type": "borderRadius"
+          },
+          "xl": {
+            "value": "{ot.border.radius.62}",
+            "type": "borderRadius"
+          },
+          "2xl": {
+            "value": "{ot.border.radius.75}",
+            "type": "borderRadius"
+          },
+          "3xl": {
+            "value": "{ot.border.radius.100}",
+            "type": "borderRadius"
+          },
+          "pill": {
+            "value": "1000",
+            "type": "borderRadius"
+          }
+        }
+      },
+      "space": {
+        "inset": {
+          "none": {
+            "value": "{ot.dimension.0}",
+            "type": "spacing"
+          },
+          "x": {
+            "value": "{ot.space.selectable.inset.12}",
+            "type": "spacing"
+          },
+          "xs": {
+            "value": "{ot.space.selectable.inset.25}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{ot.space.selectable.inset.37}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{ot.space.selectable.inset.50}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{ot.space.selectable.inset.62}",
+            "type": "spacing"
+          },
+          "xl": {
+            "value": "{ot.space.selectable.inset.75}",
+            "type": "spacing"
+          },
+          "2xl": {
+            "value": "{ot.space.selectable.inset.100}",
+            "type": "spacing"
+          },
+          "3xl": {
+            "value": "{ot.space.selectable.inset.125}",
+            "type": "spacing"
+          },
+          "4xl": {
+            "value": "{ot.space.selectable.inset.150}",
+            "type": "spacing"
+          }
+        },
+        "inline": {
+          "none": {
+            "value": "{ot.dimension.0}",
+            "type": "spacing"
+          },
+          "x": {
+            "value": "{ot.space.selectable.inline.12}",
+            "type": "spacing"
+          },
+          "xs": {
+            "value": "{ot.space.selectable.inline.25}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{ot.space.selectable.inline.37}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{ot.space.selectable.inline.50}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{ot.space.selectable.inline.62}",
+            "type": "spacing"
+          },
+          "xl": {
+            "value": "{ot.space.selectable.inline.75}",
+            "type": "spacing"
+          },
+          "2xl": {
+            "value": "{ot.space.selectable.inline.100}",
+            "type": "spacing"
+          }
+        },
+        "stack": {
+          "none": {
+            "value": "{ot.dimension.0}",
+            "type": "spacing"
+          },
+          "x": {
+            "value": "{ot.space.selectable.stack.25}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{ot.space.selectable.stack.50}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{ot.space.selectable.stack.62}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{ot.space.selectable.stack.75}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

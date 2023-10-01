@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "_init/ot",
+    "_init/st",
+    "_init/theme/light",
+    "platform/web",
+    "platform/mobile",
+    "test/test"
+  ]
+}
